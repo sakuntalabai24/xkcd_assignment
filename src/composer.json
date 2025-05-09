@@ -1,0 +1,10 @@
+{
+    "name": "navgurukul/xkcd-assignment",
+    "description": "A PHP project to send daily XKCD comics to subscribed users.",
+    "type": "project",
+    "require": {
+      "phpmailer/phpmailer": "^6.9",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "license": "proprietary"
+  }
